@@ -63,5 +63,4 @@ python main.py
 ---
 
 ## 🎞️ Preview
-
-
+https://github.com/user-attachments/assets/2a9dbbf8-e7a8-47b4-b310-01b30166df70
